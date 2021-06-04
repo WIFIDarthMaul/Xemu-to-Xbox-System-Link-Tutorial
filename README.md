@@ -24,6 +24,7 @@ How to play system link with an OG Xbox using Xemu:
 
 OPTIONAL:
 	You can create a shortcut .bat file to automatically start system link by opening Notepad and typing: start cmd /k l2tunnel.exe tunnel YOURNETWORKDESCRIPTIONHERE -s YOURMACHERE 0.0.0.0 1337 127.0.0.1 1338 and saving it as a batch file in the same folder as l2tunnel.exe
+
 8.	In Xemu, open Network, then change from NAT to Socket, and set the Remote Host to 127.0.0.1:1337 and the Local Host to 0.0.0.0:1338 and click Enable.
 9.	Now open the game of your choice and choose System Link. You should now be able to play sys link with an OG Xbox and Xemu.
 
