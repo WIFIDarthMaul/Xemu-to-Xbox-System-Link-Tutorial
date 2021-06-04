@@ -21,6 +21,7 @@ How to play system link with an OG Xbox using Xemu:
 
 6.	Separate your MAC address with colons (Example: 00:50:f2:73:ac:75)
 7.	Now in cmd, type: l2tunnel.exe tunnel YOURNETWORKDESCRIPTIONHERE -s YOURMACHERE 0.0.0.0 1337 127.0.0.1 1338
+
         (Ex: l2tunnel.exe tunnel \Device\NPF_{93184A71-7ED4-4C58-8418-D3FBCF8A6C58} -s 00:50:f2:73:ac:75 0.0.0.0 1337 127.0.0.1 1338)
 
 OPTIONAL:
