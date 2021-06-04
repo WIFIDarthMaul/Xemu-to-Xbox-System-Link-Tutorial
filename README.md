@@ -31,4 +31,4 @@ OPTIONAL:
 9.	Now open the game of your choice and choose System Link. You should now be able to play sys link with an OG Xbox and Xemu.
 
 NOTE:
-If there are updates, or dlc that the Xbox has and Xemu doesn’t, or vice versa, it won’t work. Each has to be on the same version and have the same dlc. Either download, or delete them to fix it.
+If there are updates, or dlc that the Xbox has and Xemu doesn’t, or vice versa, it won’t work. Each has to be on the same version and have the same dlc. Either download, or delete them to fix it. To add DLC or updates to Xemu you need the Xbox Dashboard installed, and host an FTP. [Follow this tutorial to do so](https://youtu.be/RdnhiXPdlgE)
